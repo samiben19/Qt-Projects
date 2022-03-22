@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="Repository.cpp">
+      <Filter>Codes</Filter>
+    </ClCompile>
+    <ClCompile Include="Domain.cpp">
+      <Filter>Codes</Filter>
+    </ClCompile>
+    <ClCompile Include="Service.cpp">
+      <Filter>Codes</Filter>
+    </ClCompile>
+    <ClCompile Include="GUI.cpp">
+      <Filter>Codes</Filter>
+    </ClCompile>
+    <ClCompile Include="MyModel.cpp">
+      <Filter>Codes</Filter>
+    </ClCompile>
+    <ClCompile Include="Observer.cpp">
+      <Filter>Codes</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <QtRcc Include="TicTacToe.qrc" />
+  </ItemGroup>
+  <ItemGroup>
+    <QtUic Include="TicTacToe.ui" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Headers">
+      <UniqueIdentifier>{ddcf04bc-06c5-48b9-bbe9-d2ba4e85f7e1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Codes">
+      <UniqueIdentifier>{4c79d711-1987-4df5-afe4-bfe989a4ec36}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Repository.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Domain.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Service.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="GUI.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="MyModel.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Observer.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="jocuri.txt" />
+  </ItemGroup>
+</Project>

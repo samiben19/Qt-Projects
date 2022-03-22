@@ -1,0 +1,21 @@
+[2021-05-10 13:01:02] [info] Start Program:
+Path:"D:\\Facultate\\Materii\\Anul 1 - Semestrul 2\\Programare orientata obiecte\\Laborator\\Lab10-11\\x64\\Debug\\Lab10-11.exe"
+Arguments:
+Working directory: "D:\\Facultate\\Materii\\Anul 1 - Semestrul 2\\Programare orientata obiecte\\Laborator\\Lab10-11\\Lab10-11\\"
+Modules: Selected: D:\Facultate\Materii\Anul 1 - Semestrul 2\Programare orientata obiecte\Laborator\Lab10-11\x64\Debug\Lab10-11.exe Excluded: 
+Sources: Selected: D:\Facultate\Materii\Anul 1 - Semestrul 2\Programare orientata obiecte\Laborator\Lab10-11\Lab10-11 Excluded: CosGUI FilterGUI GUI 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: binary C:\Users\Delta Laptop\AppData\Local\Temp\erlwhejn.ctw 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2021-05-10 13:01:02] [info] Module: D:\Facultate\Materii\Anul 1 - Semestrul 2\Programare orientata obiecte\Laborator\Lab10-11\x64\Debug\Lab10-11.exe is selected because it matches selected pattern: D:\Facultate\Materii\Anul 1 - Semestrul 2\Programare orientata obiecte\Laborator\Lab10-11\x64\Debug\Lab10-11.exe
+[2021-05-10 13:01:02] [info] ----------------------------------------------------
+[2021-05-10 13:01:02] [info] Coverage binary generated in file: C:\Users\Delta Laptop\AppData\Local\Temp\erlwhejn.ctw
+[2021-05-10 13:01:02] [info] ----------------------------------------------------

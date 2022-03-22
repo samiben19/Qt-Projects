@@ -1,0 +1,11 @@
+1;C++;Sami;Open
+2;C#;Andrei;Raul;Inprogress
+3;Java;Gabi;Alin;Mihai;Petru;Close
+4;Python;Petru;Rares;Open
+5;C++;Sami;Dragos;Close
+6;C;Cosmin;Close
+7;Ruby;Alin;Sergiu;Inprogress
+8;HTML;Denis;Mihnea;Close
+9;JavaScript;Robi;Radu;Inprogress
+10;R;Paul;Open
+11;C++;Alin;Open

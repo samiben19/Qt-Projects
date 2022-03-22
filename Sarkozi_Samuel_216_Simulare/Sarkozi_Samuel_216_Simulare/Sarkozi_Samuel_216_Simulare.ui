@@ -1,0 +1,28 @@
+<UI version="4.0" >
+ <class>Sarkozi_Samuel_216_SimulareClass</class>
+ <widget class="QMainWindow" name="Sarkozi_Samuel_216_SimulareClass" >
+  <property name="objectName" >
+   <string notr="true">Sarkozi_Samuel_216_SimulareClass</string>
+  </property>
+  <property name="geometry" >
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>600</width>
+    <height>400</height>
+   </rect>
+  </property>
+  <property name="windowTitle" >
+   <string>Sarkozi_Samuel_216_Simulare</string>
+  </property>  <widget class="QMenuBar" name="menuBar" />
+  <widget class="QToolBar" name="mainToolBar" />
+  <widget class="QWidget" name="centralWidget" />
+  <widget class="QStatusBar" name="statusBar" />
+ </widget>
+ <layoutDefault spacing="6" margin="11" />
+ <pixmapfunction></pixmapfunction>
+ <resources>
+   <include location="Sarkozi_Samuel_216_Simulare.qrc"/>
+ </resources>
+ <connections/>
+</UI>

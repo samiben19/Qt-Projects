@@ -1,0 +1,1 @@
+Nume, Tip, Pret, Numar intrari

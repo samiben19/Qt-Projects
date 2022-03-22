@@ -1,0 +1,44 @@
+HP Ceva
+Gaming
+2999.99
+HP
+Asus Altceva
+Gaming
+3599.99
+Asus
+Lenovo IdeaPad 3
+Multimedia
+3299.99
+Lenovo
+Dell Latitude 3510
+Office
+3599.99
+Dell
+Acer Aspire 3
+Multimedia
+3199.99
+Acer
+Lenovo Legion 5
+Gaming
+4599.99
+Lenovo
+Asus ROG Strix G15
+Gaming
+5999.99
+Asus
+Lenovo Legion C7
+Grafica
+9499.99
+Lenovo
+HP 250 G7
+Office
+3999.99
+HP
+Asus K50IN
+Office
+499.99
+Asus
+Dell Inspiron 3793
+Home
+2699.99
+Dell

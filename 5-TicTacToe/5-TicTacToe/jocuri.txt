@@ -1,0 +1,7 @@
+1;3;XXXXOOOOX;O;Terminat
+2;3;XXX-O---O;O;Terminat
+3;3;-XOXOOOXX;X;Terminat
+4;3;OX--OXOXO;X;Terminat
+5;3;XXOXO-XO-;O;Terminat
+6;5;-------------------------;X;Neinceput
+7;3;---------;X;Neinceput
